@@ -18,6 +18,13 @@ $ ./build.sh
 $ make up
 ```
 
+After running docker container, you can visit URL below:
+
+```
+FrontEnd: http://localhost:3000
+BackEnd: http://localhost:8000
+```
+
 ## LICENSE
 
 MIT
